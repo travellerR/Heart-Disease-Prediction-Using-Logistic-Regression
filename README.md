@@ -25,3 +25,5 @@ thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 ![RES1](https://user-images.githubusercontent.com/70147324/114264097-9548f580-9a06-11eb-98b1-b060714b9bfa.png)
 
+![RES2](https://user-images.githubusercontent.com/70147324/114264116-a8f45c00-9a06-11eb-865d-4b3b34d1379a.png)
+![RES3](https://user-images.githubusercontent.com/70147324/114264117-aabe1f80-9a06-11eb-9c61-855443b995fb.png)
